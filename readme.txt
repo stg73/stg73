@@ -1,8 +1,8 @@
-リポジトリ名の仕様
-    リポジトリの性質を表す拡張子を付ける
+リポジトリの命名規則
+    リポジトリの属性を表す拡張子を付ける
         例
-            neovim -> jump_cursor.nvim
-            SKK -> dictionaries.skk
+            neovimプラグイン -> jump_cursor.nvim
+            SKK辞書 -> dictionaries.skk
     大文字は使わない
     複合語
         優先順位
